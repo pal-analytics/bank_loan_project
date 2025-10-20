@@ -63,8 +63,6 @@ The Excel dashboard includes:
 
 ---
 
-## 🗂 Project Structure
-
 ---
 
 ## 🧩 Workflow Summary
@@ -105,8 +103,8 @@ The Excel dashboard includes:
 
 ## 🙌 Acknowledgment
 
-This project was inspired by a YouTube tutorial from the channel **Data Tutorials**, which provided the base structure for analysis.  
-All calculations, design, and explanations were independently replicated and customized for learning purposes.  
+This project was inspired by a YouTube tutorial from the channel **Data Tutorials**. I followed their structure for learning purposes and customized the queries and analysis as part of my own practice project. 
+Grateful for their clear guidance that helped me understand the complete SQL + EXCEL analytics workflow.  
 The dataset used here is **anonymized** and intended purely for educational demonstration.
 
 ---
@@ -116,3 +114,4 @@ The dataset used here is **anonymized** and intended purely for educational demo
 **Pallavi Mali**  
 📍 Pune, India  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/pallavi-mali-4b8888272/)  
+
