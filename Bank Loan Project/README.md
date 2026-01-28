@@ -34,7 +34,6 @@ This project analyzes bank loan applications to evaluate loan performance, borro
 - Distribution by Home Ownership and Purpose
 - Borrower segmentation by Employment Length
 - Interactive slicers and charts for quick filtering
-![Dashboard Preview](excel/Dashboard_Screenshot.png)
 
 ## Tools & Technologies Used
 - Oracle SQL Developer → Data cleaning, aggregation, KPI calculation
@@ -62,5 +61,6 @@ This project analyzes bank loan applications to evaluate loan performance, borro
 ## Author- Pallavi Mali
 Pune, India  
 [LinkedIn Profile](https://www.linkedin.com/in/pallavi-mali-4b8888272/)  
+
 
 
